@@ -1,6 +1,6 @@
 import time
 import pyautogui
-import csv
+
 
 
 class AutomacoesTurma01:
