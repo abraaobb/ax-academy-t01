@@ -34,6 +34,7 @@ class AutomacoesTurma01:
         pyautogui.write(conteudo)
         time.sleep(4)
         pyautogui.click(524,794)
+        "oi"
         print(pyautogui.position())
 
         
